@@ -1,0 +1,17 @@
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\controller\GerenciadorTarefasController.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\controller\TesteApiController.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\controller\UsuarioController.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\entity\Role.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\entity\Tarefa.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\entity\Usuario.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\entity\UsuarioAutenticado.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\GerenciadorTarefasApplication.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\permissoes\PermissaoEnum.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\repository\GerenciadorTarefasRepository.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\repository\IRoleRepository.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\repository\IUsuarioRepository.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\service\AutenticacaoService.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\service\GerenciadorTarefasService.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\service\UsuarioAutenticadoService.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\service\UsuarioService.java
+C:\Users\taina\OneDrive\Documentos\gerenciador-tarefas\src\main\java\com\gerenciador_tarefas\status\TarefaStatusEnum.java

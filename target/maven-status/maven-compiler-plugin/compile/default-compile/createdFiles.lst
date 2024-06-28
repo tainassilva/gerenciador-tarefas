@@ -1,0 +1,11 @@
+com\gerenciador_tarefas\controller\UsuarioController.class
+com\gerenciador_tarefas\permissoes\PermissaoEnum.class
+com\gerenciador_tarefas\repository\IUsuarioRepository.class
+com\gerenciador_tarefas\controller\TesteApiController.class
+com\gerenciador_tarefas\status\TarefaStatusEnum.class
+com\gerenciador_tarefas\repository\IRoleRepository.class
+com\gerenciador_tarefas\entity\UsuarioAutenticado.class
+com\gerenciador_tarefas\entity\Role.class
+com\gerenciador_tarefas\GerenciadorTarefasApplication.class
+com\gerenciador_tarefas\entity\Usuario.class
+com\gerenciador_tarefas\service\UsuarioService.class
